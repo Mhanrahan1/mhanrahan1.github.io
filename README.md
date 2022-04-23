@@ -1,2 +1,2 @@
-# mhanrahan1.github.io
+# Mhanrahan1.github.io
 Web Dev Projects
